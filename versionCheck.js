@@ -1,1 +1,1 @@
-document.write('check complete!');
+document.write('check complete ');
