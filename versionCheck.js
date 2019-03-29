@@ -1,4 +1,4 @@
 let x = new Date();
-x = getDay(x);
+x = x.getDay();
 document.write('check complete ' + x);
 
